@@ -8,3 +8,4 @@ Frontend & UI/UX: Designed a modern "glassmorphism" login and dashboard using Ja
 Database Integration: Connected the interface to Oracle SQL using JDBC (ojdbc11) for secure data persistence.
 
 Collaboration: Integrated backend and frontend components using Git/GitHub for team synchronization.
+Tech Stack: Java, Swing, Oracle SQL, JDBC, Git.

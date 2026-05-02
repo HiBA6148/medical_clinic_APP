@@ -1,2 +1,3 @@
-# medical_clinic_APP
-The patient management application is intended for the medical secretary of a small clinic. It allows managing patients, doctors, and appointments through an interface developed in Java and an Oracle database.
+# Medical Clinic Management System 🏥
+Project Summary
+A Java-based desktop application developed for the L2 ACAD curriculum at USTHB. The platform digitizes clinic operations, providing a secure portal to manage patients, doctors, and appointments through a modern interface linked to an Oracle Database.
